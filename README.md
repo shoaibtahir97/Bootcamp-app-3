@@ -1,6 +1,5 @@
 # App.js
 
-## Line No. 
 We have a constant of shoes having objects which are shoes.
 
 {Object.entries(shoes).map(([slug, {name, img}])=> <li key ={slug}></li> )}
